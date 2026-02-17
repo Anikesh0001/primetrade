@@ -10,6 +10,21 @@
 
 A production-ready full-stack system with JWT authentication, RBAC, Projects CRUD, and a modern React dashboard. Built with clean architecture principles, strong typing, and security-first defaults.
 
+## Screenshots
+
+### Dashboard & Authentication
+![Login Screen](screenshots_preview/1.png)
+![Registration](screenshots_preview/2.png)
+![Dashboard](screenshots_preview/3.png)
+
+### Project Management
+![Projects List](screenshots_preview/4.png)
+![Create Project](screenshots_preview/5.png)
+![Project Details](screenshots_preview/6.png)
+
+### Admin Panel
+![Admin Users](screenshots_preview/7.png)
+
 ## Features
 
 - JWT access + refresh token authentication
