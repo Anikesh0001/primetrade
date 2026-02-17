@@ -1,0 +1,24 @@
+2026-02-17T04:25:09.392Z [info]: API running on port 4000
+2026-02-17T04:30:46.447Z [info]: POST /api/v1/auth/refresh 200 578 - 725.637 ms - 79698fe1-73bd-4109-9463-5c61d71b7d3c
+2026-02-17T04:30:46.474Z [info]: POST /api/v1/auth/refresh 200 578 - 773.878 ms - 4cabb860-a420-40c0-b846-d9a0d031bf24
+2026-02-17T04:35:23.403Z [info]: GET /docs 301 154 - 33.150 ms - 6d908e2a-4d46-4e94-82b8-f11fbf7ad7ba
+2026-02-17T04:35:23.432Z [info]: GET /docs/ 200 3106 - 21.768 ms - 886a6e5d-78bf-4a2f-b105-7d119aa4fbc7
+2026-02-17T04:35:23.549Z [info]: GET /docs/swagger-ui-init.js 200 10261 - 0.113 ms - e2f895e2-ea28-4b0c-985a-f80a8d3caf38
+2026-02-17T04:35:23.558Z [info]: GET /docs/swagger-ui.css 200 177183 - 18.342 ms - 6a2cc945-22ff-4f30-9859-035128731f13
+2026-02-17T04:35:23.567Z [info]: GET /docs/swagger-ui-standalone-preset.js 200 251697 - 4.591 ms - 3fa76863-0be6-41fa-9fd8-f43d68e0b208
+2026-02-17T04:35:23.571Z [info]: GET /docs/swagger-ui-bundle.js 200 1514087 - 16.218 ms - a002eb53-7a06-40e8-8822-047d5749c87b
+2026-02-17T04:35:23.756Z [info]: GET /docs/favicon-32x32.png 200 628 - 4.268 ms - ad899d15-a0db-4014-b129-1cf5e9ee8592
+2026-02-17T04:36:20.320Z [info]: GET /api/v1/projects 304 - - 921.224 ms - 799883c6-ef2d-4fc7-ba2b-ffd924b10fac
+2026-02-17T04:36:20.342Z [info]: GET /api/v1/projects 304 - - 16.324 ms - 441665a1-5ced-4d97-bc74-1ae1fff59f1c
+2026-02-17T04:36:45.551Z [info]: POST /api/v1/auth/logout 200 49 - 21.863 ms - e0320d28-3534-4295-ace5-07d6d2fc7b0d
+2026-02-17T04:37:44.460Z [info]: POST /api/v1/auth/register 201 671 - 446.570 ms - de17c32c-fc09-4d50-88ff-bcd391eb5f8c
+2026-02-17T04:38:20.374Z [info]: GET /api/v1/projects 304 - - 98.859 ms - 0615d3f6-afcf-43a3-9c5b-12a982c2da3e
+2026-02-17T04:38:20.384Z [info]: GET /api/v1/projects 304 - - 6.754 ms - 64d46aee-3b29-4cba-bbf1-feeecf91e155
+2026-02-17T04:39:45.741Z [info]: POST /api/v1/projects 201 286 - 89.169 ms - 204580db-cd4c-43db-ada6-d7fb46d04ede
+2026-02-17T04:39:45.834Z [info]: GET /api/v1/projects 200 348 - 49.652 ms - 76c78ac8-2511-46c2-8ed2-a43bbd1a58c1
+2026-02-17T04:40:23.893Z [info]: POST /api/v1/projects 201 295 - 61.692 ms - f9115142-2709-4809-a2a1-b214193d4b2f
+2026-02-17T04:40:23.925Z [info]: GET /api/v1/projects 200 348 - 28.894 ms - 22ac5545-52bc-481a-8877-1b2b54fa17f6
+2026-02-17T04:40:36.048Z [info]: GET /api/v1/projects 304 - - 7.125 ms - e7e64671-e6b0-4edb-92e7-9b63870cc43a
+2026-02-17T04:40:36.057Z [info]: GET /api/v1/projects 304 - - 4.627 ms - 59057c9f-85b9-4218-80fb-975b0ff2f73f
+2026-02-17T04:43:40.349Z [info]: POST /api/v1/auth/logout 200 49 - 111.531 ms - 3adb93d1-ab07-482a-95bc-f6b51bd822ca
+2026-02-17T04:43:47.941Z [info]: POST /api/v1/auth/login 401 61 - 22.990 ms - bd765fe8-5dc4-4afc-8849-47fbb8e38dcd
